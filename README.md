@@ -4,8 +4,6 @@ This repository contains scripts to scrape data from restcountries.com and ebay.
 
 ## How Setup and Execution code
 
-### 1. Set Up the Scraping Environment
-
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Andrii-Bezkrovnyi/data_scraper.git
